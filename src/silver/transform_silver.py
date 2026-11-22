@@ -1,51 +1,79 @@
 def build_silver_datasets(flattened_matches):
 
-    leagues = []
-    seasons = []
-    teams = []
-    venues = []
+    leagues = {}
+    seasons = {}
+    teams = {}
+    venues = {}
+    venue_lookup = {}
     matches = []
     match_scores = []
     match_statistics = []
+   
 
     for match in flattened_matches:
 
-        # 1. Leagues
-        leagues.append({
+       # 1. Leagues
+        leagues[match["LeagueID"]] = {
             "LeagueID": match["LeagueID"],
             "LeagueName": match["LeagueName"],
             "Country": match["Country"],
             "CompetitionName": match["CompetitionName"],
             "LeagueImage": match["LeagueImage"]
-        })
+        }
 
         # 2. Seasons
-        seasons.append({
+        seasons[match["SeasonID"]] = {
             "SeasonID": match["SeasonID"],
             "SeasonYear": match["SeasonYear"],
             "LeagueID": match["LeagueID"]
-        })
+        }
 
         # 3. Teams
-        teams.append({
-            "TeamID": match["HomeTeamID"],
-            "TeamName": match["HomeTeamName"],
-            "TeamLogo": match["HomeTeamLogo"]
-        })
-
-        teams.append({
+        teams[match["AwayTeamID"]] = {
             "TeamID": match["AwayTeamID"],
             "TeamName": match["AwayTeamName"],
             "TeamLogo": match["AwayTeamLogo"]
-        })
+        }
+
 
         # 4. Venues
-        venues.append({
-            "StadiumName": match["StadiumName"],
-            "StadiumLocation": match["StadiumLocation"]
-        })
+
+        stadium_name = match["StadiumName"]
+        stadium_location = match["StadiumLocation"]
+
+        # Clean venue data
+        if stadium_name:
+            stadium_name = stadium_name.strip()
+
+        if stadium_location:
+            stadium_location = stadium_location.strip()
+
+        # Only process venues with a stadium name
+        if stadium_name:
+
+            venue_key = (stadium_name, stadium_location)
+
+            # Generate a VenueID for new venues
+            if venue_key not in venue_lookup:
+
+                venue_id = len(venue_lookup) + 1
+
+                venue_lookup[venue_key] = venue_id
+
+                venues[venue_key] = {
+                    "VenueID": venue_id,
+                    "StadiumName": stadium_name,
+                    "StadiumLocation": stadium_location
+                }
 
         # 5. Matches
+
+        match_venue_id = None
+
+        if stadium_name:
+            venue_key = (stadium_name, stadium_location)
+            match_venue_id = venue_lookup.get(venue_key)
+
         matches.append({
             "MatchID": match["MatchID"],
             "MatchDate": match["MatchDate"],
@@ -57,11 +85,10 @@ def build_silver_datasets(flattened_matches):
             "SeasonID": match["SeasonID"],
             "HomeTeamID": match["HomeTeamID"],
             "AwayTeamID": match["AwayTeamID"],
-            "StadiumName": match["StadiumName"],
-            "StadiumLocation": match["StadiumLocation"],
+            "VenueID": match_venue_id,
             "LastUpdated": match["LastUpdated"],
             "WinnerText": match["WinnerText"]
-        })
+         })
 
         # 6. Match scores
         calculated_total_goals = match["HomeGoals"] + match["AwayGoals"]
@@ -90,10 +117,10 @@ def build_silver_datasets(flattened_matches):
         })
 
     return {
-        "Leagues": leagues,
-        "Seasons": seasons,
-        "Teams": teams,
-        "Venues": venues,
+        "Leagues": list(leagues.values()),
+        "Seasons": list(seasons.values()),
+        "Teams": list(teams.values()),
+        "Venues": list(venues.values()),
         "Matches": matches,
         "MatchScores": match_scores,
         "MatchStatistics": match_statistics
