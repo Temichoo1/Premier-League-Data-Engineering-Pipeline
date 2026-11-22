@@ -2,7 +2,7 @@ import pyodbc
 import pandas as pd
 from sqlalchemy import create_engine
 
-server = 'TEMITOPE\SQLEXPRESS'
+server = 'T****\SQLEXPRESS'
 database = 'PremierLeagueDW'
 
 connection_string = (
