@@ -1,0 +1,4574 @@
+{
+    "success": true,
+    "data": {
+        "season": {
+            "season_id": 189,
+            "year": 20252026,
+            "is_current": true
+        },
+        "matches": [
+            {
+                "match_id": 193170,
+                "match_date": "2026-03-15 16:30:00",
+                "date_unix": 1773592200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 30,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "away_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.82,
+                    "away": 1.49,
+                    "total": 3.31
+                },
+                "odds": {
+                    "home_win": 1.31,
+                    "draw": 6,
+                    "away_win": 8
+                },
+                "probabilities": {
+                    "home_win": 72.35,
+                    "draw": 15.8,
+                    "away_win": 11.85
+                },
+                "venue": {
+                    "stadium_name": "Anfield",
+                    "stadium_location": "Anfield Road, Liverpool"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193169,
+                "match_date": "2026-03-16 20:00:00",
+                "date_unix": 1773691200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 30,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "away_team": {
+                    "team_id": 194,
+                    "team_name": "Wolverhampton Wanderers",
+                    "team_logo": "https://footballdata.io/img/team/wolverhampton-wanderers-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 2,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.16,
+                    "away": 1.5,
+                    "total": 2.66
+                },
+                "odds": {
+                    "home_win": 1.42,
+                    "draw": 4.45,
+                    "away_win": 5.97
+                },
+                "probabilities": {
+                    "home_win": 64.23,
+                    "draw": 20.5,
+                    "away_win": 15.28
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193173,
+                "match_date": "2026-03-20 20:00:00",
+                "date_unix": 1774036800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 132,
+                    "team_name": "AFC Bournemouth",
+                    "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+                },
+                "away_team": {
+                    "team_id": 133,
+                    "team_name": "Manchester United",
+                    "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 2,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.73,
+                    "away": 1.54,
+                    "total": 3.28
+                },
+                "odds": {
+                    "home_win": 3.24,
+                    "draw": 3.74,
+                    "away_win": 2.09
+                },
+                "probabilities": {
+                    "home_win": 29.27,
+                    "draw": 25.36,
+                    "away_win": 45.37
+                },
+                "venue": {
+                    "stadium_name": "Vitality Stadium",
+                    "stadium_location": "Dean Court, Kings Park, Bournemouth, Dorset"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193092,
+                "match_date": "2026-03-21 12:45:00",
+                "date_unix": 1774097100,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 180,
+                    "team_name": "Brighton &amp; Hove Albion",
+                    "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+                },
+                "away_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 1,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.92,
+                    "away": 1.47,
+                    "total": 3.39
+                },
+                "odds": {
+                    "home_win": 3.14,
+                    "draw": 3.6,
+                    "away_win": 2
+                },
+                "probabilities": {
+                    "home_win": 29.05,
+                    "draw": 25.34,
+                    "away_win": 45.61
+                },
+                "venue": {
+                    "stadium_name": "The American Express Community Stadium",
+                    "stadium_location": "Village Way, Falmer, East Sussex"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Brighton &amp; Hove Albion won the match"
+            },
+            {
+                "match_id": 193174,
+                "match_date": "2026-03-21 15:00:00",
+                "date_unix": 1774105200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 146,
+                    "team_name": "Fulham",
+                    "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+                },
+                "away_team": {
+                    "team_id": 129,
+                    "team_name": "Burnley",
+                    "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 1,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 2.15,
+                    "away": 1.28,
+                    "total": 3.43
+                },
+                "odds": {
+                    "home_win": 1.56,
+                    "draw": 4.6,
+                    "away_win": 5.6
+                },
+                "probabilities": {
+                    "home_win": 61.82,
+                    "draw": 20.96,
+                    "away_win": 17.22
+                },
+                "venue": {
+                    "stadium_name": "Craven Cottage",
+                    "stadium_location": "Stevenage Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Fulham won the match"
+            },
+            {
+                "match_id": 193091,
+                "match_date": "2026-03-21 17:30:00",
+                "date_unix": 1774114200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 128,
+                    "team_name": "Everton",
+                    "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+                },
+                "away_team": {
+                    "team_id": 136,
+                    "team_name": "Chelsea",
+                    "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.43,
+                    "away": 1.51,
+                    "total": 2.94
+                },
+                "odds": {
+                    "home_win": 3.37,
+                    "draw": 3.4,
+                    "away_win": 2.2
+                },
+                "probabilities": {
+                    "home_win": 28.38,
+                    "draw": 28.13,
+                    "away_win": 43.48
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Everton won the match"
+            },
+            {
+                "match_id": 193093,
+                "match_date": "2026-03-21 20:00:00",
+                "date_unix": 1774123200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 193,
+                    "team_name": "Leeds United",
+                    "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0,
+                    "total_goals": 0
+                },
+                "xg": {
+                    "home": 1.7,
+                    "away": 0.81,
+                    "total": 2.5
+                },
+                "odds": {
+                    "home_win": 2.45,
+                    "draw": 3.4,
+                    "away_win": 2.9
+                },
+                "probabilities": {
+                    "home_win": 38.98,
+                    "draw": 28.09,
+                    "away_win": 32.93
+                },
+                "venue": {
+                    "stadium_name": "Elland Road",
+                    "stadium_location": "Elland Road, Leeds, West Yorkshire"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193080,
+                "match_date": "2026-03-22 12:00:00",
+                "date_unix": 1774180800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 141,
+                    "team_name": "Newcastle United",
+                    "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 140,
+                    "team_name": "Sunderland",
+                    "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 2,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.62,
+                    "away": 1.92,
+                    "total": 3.54
+                },
+                "odds": {
+                    "home_win": 1.45,
+                    "draw": 3.95,
+                    "away_win": 5.25
+                },
+                "probabilities": {
+                    "home_win": 60.85,
+                    "draw": 22.34,
+                    "away_win": 16.81
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Sunderland won the match"
+            },
+            {
+                "match_id": 193090,
+                "match_date": "2026-03-22 14:15:00",
+                "date_unix": 1774188900,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 142,
+                    "team_name": "Aston Villa",
+                    "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+                },
+                "away_team": {
+                    "team_id": 137,
+                    "team_name": "West Ham United",
+                    "team_logo": "https://footballdata.io/img/team/west-ham-united-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 0,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 2.3,
+                    "away": 0.94,
+                    "total": 3.24
+                },
+                "odds": {
+                    "home_win": 1.86,
+                    "draw": 3.65,
+                    "away_win": 4.76
+                },
+                "probabilities": {
+                    "home_win": 52.62,
+                    "draw": 26.82,
+                    "away_win": 20.56
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Aston Villa won the match"
+            },
+            {
+                "match_id": 193148,
+                "match_date": "2026-03-22 14:15:00",
+                "date_unix": 1774188900,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "away_team": {
+                    "team_id": 182,
+                    "team_name": "Nottingham Forest",
+                    "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 3,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.56,
+                    "away": 1.23,
+                    "total": 2.8
+                },
+                "odds": {
+                    "home_win": 2.45,
+                    "draw": 3.25,
+                    "away_win": 2.95
+                },
+                "probabilities": {
+                    "home_win": 38.69,
+                    "draw": 29.17,
+                    "away_win": 32.14
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Nottingham Forest won the match"
+            },
+            {
+                "match_id": 192968,
+                "match_date": "2026-04-10 19:00:00",
+                "date_unix": 1775847600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 137,
+                    "team_name": "West Ham United",
+                    "team_logo": "https://footballdata.io/img/team/west-ham-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 194,
+                    "team_name": "Wolverhampton Wanderers",
+                    "team_logo": "https://footballdata.io/img/team/wolverhampton-wanderers-fc.png"
+                },
+                "score": {
+                    "home": 4,
+                    "away": 0,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.9,
+                    "away": 1.42,
+                    "total": 3.32
+                },
+                "odds": {
+                    "home_win": 1.61,
+                    "draw": 3.92,
+                    "away_win": 4.25
+                },
+                "probabilities": {
+                    "home_win": 55.88,
+                    "draw": 22.95,
+                    "away_win": 21.17
+                },
+                "venue": {
+                    "stadium_name": "London Stadium",
+                    "stadium_location": "Marshgate Lane, Stratford, London"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "West Ham United won the match"
+            },
+            {
+                "match_id": 192966,
+                "match_date": "2026-04-11 11:30:00",
+                "date_unix": 1775907000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 57,
+                    "team_name": "Arsenal",
+                    "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+                },
+                "away_team": {
+                    "team_id": 132,
+                    "team_name": "AFC Bournemouth",
+                    "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 2,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.55,
+                    "away": 0.99,
+                    "total": 2.55
+                },
+                "odds": {
+                    "home_win": 1.5,
+                    "draw": 4.65,
+                    "away_win": 6.76
+                },
+                "probabilities": {
+                    "home_win": 64.75,
+                    "draw": 20.89,
+                    "away_win": 14.37
+                },
+                "venue": {
+                    "stadium_name": "Emirates Stadium",
+                    "stadium_location": "Queensland Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "AFC Bournemouth won the match"
+            },
+            {
+                "match_id": 192962,
+                "match_date": "2026-04-11 14:00:00",
+                "date_unix": 1775916000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "away_team": {
+                    "team_id": 128,
+                    "team_name": "Everton",
+                    "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 2,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.74,
+                    "away": 1.76,
+                    "total": 3.5
+                },
+                "odds": {
+                    "home_win": 2.1,
+                    "draw": 3.15,
+                    "away_win": 3.5
+                },
+                "probabilities": {
+                    "home_win": 44.12,
+                    "draw": 29.41,
+                    "away_win": 26.47
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193088,
+                "match_date": "2026-04-11 14:00:00",
+                "date_unix": 1775916000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 129,
+                    "team_name": "Burnley",
+                    "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+                },
+                "away_team": {
+                    "team_id": 180,
+                    "team_name": "Brighton &amp; Hove Albion",
+                    "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 2,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.28,
+                    "away": 1.59,
+                    "total": 2.87
+                },
+                "odds": {
+                    "home_win": 4.6,
+                    "draw": 4,
+                    "away_win": 1.69
+                },
+                "probabilities": {
+                    "home_win": 20.53,
+                    "draw": 23.6,
+                    "away_win": 55.87
+                },
+                "venue": {
+                    "stadium_name": "Turf Moor",
+                    "stadium_location": "Harry Potts Way, Burnley"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Brighton &amp; Hove Albion won the match"
+            },
+            {
+                "match_id": 193176,
+                "match_date": "2026-04-11 16:30:00",
+                "date_unix": 1775925000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "away_team": {
+                    "team_id": 146,
+                    "team_name": "Fulham",
+                    "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 0,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.96,
+                    "away": 1.9,
+                    "total": 3.86
+                },
+                "odds": {
+                    "home_win": 1.67,
+                    "draw": 4.33,
+                    "away_win": 4.5
+                },
+                "probabilities": {
+                    "home_win": 56.92,
+                    "draw": 21.95,
+                    "away_win": 21.12
+                },
+                "venue": {
+                    "stadium_name": "Anfield",
+                    "stadium_location": "Anfield Road, Liverpool"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Liverpool won the match"
+            },
+            {
+                "match_id": 193040,
+                "match_date": "2026-04-12 13:00:00",
+                "date_unix": 1775998800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 182,
+                    "team_name": "Nottingham Forest",
+                    "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+                },
+                "away_team": {
+                    "team_id": 142,
+                    "team_name": "Aston Villa",
+                    "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.57,
+                    "away": 1.42,
+                    "total": 2.99
+                },
+                "odds": {
+                    "home_win": 2.6,
+                    "draw": 3.3,
+                    "away_win": 2.59
+                },
+                "probabilities": {
+                    "home_win": 35.82,
+                    "draw": 28.22,
+                    "away_win": 35.96
+                },
+                "venue": {
+                    "stadium_name": "The City Ground",
+                    "stadium_location": "Pavilion Road, Nottingham, Nottinghamshire"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193041,
+                "match_date": "2026-04-12 13:00:00",
+                "date_unix": 1775998800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 140,
+                    "team_name": "Sunderland",
+                    "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+                },
+                "away_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 0,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 1.3,
+                    "away": 1.51,
+                    "total": 2.81
+                },
+                "odds": {
+                    "home_win": 2.62,
+                    "draw": 3.4,
+                    "away_win": 2.65
+                },
+                "probabilities": {
+                    "home_win": 36.24,
+                    "draw": 27.93,
+                    "away_win": 35.83
+                },
+                "venue": {
+                    "stadium_name": "Stadium of Light",
+                    "stadium_location": "Millenium Way, Sunderland"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Sunderland won the match"
+            },
+            {
+                "match_id": 193095,
+                "match_date": "2026-04-12 13:00:00",
+                "date_unix": 1775998800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 127,
+                    "team_name": "Crystal Palace",
+                    "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+                },
+                "away_team": {
+                    "team_id": 141,
+                    "team_name": "Newcastle United",
+                    "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 1,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.29,
+                    "away": 1.03,
+                    "total": 2.32
+                },
+                "odds": {
+                    "home_win": 2.8,
+                    "draw": 3.6,
+                    "away_win": 2.45
+                },
+                "probabilities": {
+                    "home_win": 34.24,
+                    "draw": 26.63,
+                    "away_win": 39.13
+                },
+                "venue": {
+                    "stadium_name": "Selhurst Park",
+                    "stadium_location": "Holmesdale Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Crystal Palace won the match"
+            },
+            {
+                "match_id": 193175,
+                "match_date": "2026-04-12 15:30:00",
+                "date_unix": 1776007800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 136,
+                    "team_name": "Chelsea",
+                    "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+                },
+                "away_team": {
+                    "team_id": 87,
+                    "team_name": "Manchester City",
+                    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 3,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.22,
+                    "away": 2.3,
+                    "total": 3.51
+                },
+                "odds": {
+                    "home_win": 3.5,
+                    "draw": 3.8,
+                    "away_win": 1.94
+                },
+                "probabilities": {
+                    "home_win": 26.84,
+                    "draw": 24.73,
+                    "away_win": 48.43
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Manchester City won the match"
+            },
+            {
+                "match_id": 192967,
+                "match_date": "2026-04-13 19:00:00",
+                "date_unix": 1776106800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 32,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 133,
+                    "team_name": "Manchester United",
+                    "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 193,
+                    "team_name": "Leeds United",
+                    "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 2,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 2.3,
+                    "away": 1.79,
+                    "total": 4.1
+                },
+                "odds": {
+                    "home_win": 1.53,
+                    "draw": 4.35,
+                    "away_win": 5.5
+                },
+                "probabilities": {
+                    "home_win": 61.35,
+                    "draw": 21.58,
+                    "away_win": 17.07
+                },
+                "venue": {
+                    "stadium_name": "Old Trafford",
+                    "stadium_location": "Sir Matt Busby Way, Manchester"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Leeds United won the match"
+            },
+            {
+                "match_id": 193044,
+                "match_date": "2026-04-18 11:30:00",
+                "date_unix": 1776511800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "away_team": {
+                    "team_id": 146,
+                    "team_name": "Fulham",
+                    "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0,
+                    "total_goals": 0
+                },
+                "xg": {
+                    "home": 1.44,
+                    "away": 0.92,
+                    "total": 2.36
+                },
+                "odds": {
+                    "home_win": 1.97,
+                    "draw": 3.7,
+                    "away_win": 3.62
+                },
+                "probabilities": {
+                    "home_win": 48.15,
+                    "draw": 25.64,
+                    "away_win": 26.21
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193045,
+                "match_date": "2026-04-18 14:00:00",
+                "date_unix": 1776520800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 141,
+                    "team_name": "Newcastle United",
+                    "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 132,
+                    "team_name": "AFC Bournemouth",
+                    "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 2,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.5,
+                    "away": 1.25,
+                    "total": 2.74
+                },
+                "odds": {
+                    "home_win": 2.15,
+                    "draw": 3.65,
+                    "away_win": 3.2
+                },
+                "probabilities": {
+                    "home_win": 44.23,
+                    "draw": 26.05,
+                    "away_win": 29.72
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "AFC Bournemouth won the match"
+            },
+            {
+                "match_id": 193053,
+                "match_date": "2026-04-18 14:00:00",
+                "date_unix": 1776520800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 193,
+                    "team_name": "Leeds United",
+                    "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 194,
+                    "team_name": "Wolverhampton Wanderers",
+                    "team_logo": "https://footballdata.io/img/team/wolverhampton-wanderers-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.76,
+                    "away": 0.92,
+                    "total": 2.69
+                },
+                "odds": {
+                    "home_win": 1.57,
+                    "draw": 4.1,
+                    "away_win": 5.5
+                },
+                "probabilities": {
+                    "home_win": 59.94,
+                    "draw": 22.95,
+                    "away_win": 17.11
+                },
+                "venue": {
+                    "stadium_name": "Elland Road",
+                    "stadium_location": "Elland Road, Leeds, West Yorkshire"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Leeds United won the match"
+            },
+            {
+                "match_id": 193051,
+                "match_date": "2026-04-18 16:30:00",
+                "date_unix": 1776529800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "away_team": {
+                    "team_id": 180,
+                    "team_name": "Brighton &amp; Hove Albion",
+                    "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 2,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.5,
+                    "away": 1.28,
+                    "total": 2.77
+                },
+                "odds": {
+                    "home_win": 3.05,
+                    "draw": 3.7,
+                    "away_win": 2.2
+                },
+                "probabilities": {
+                    "home_win": 31.15,
+                    "draw": 25.67,
+                    "away_win": 43.18
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193042,
+                "match_date": "2026-04-18 19:00:00",
+                "date_unix": 1776538800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 136,
+                    "team_name": "Chelsea",
+                    "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+                },
+                "away_team": {
+                    "team_id": 133,
+                    "team_name": "Manchester United",
+                    "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 1,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 2.04,
+                    "away": 0.54,
+                    "total": 2.58
+                },
+                "odds": {
+                    "home_win": 2.15,
+                    "draw": 3.7,
+                    "away_win": 3.2
+                },
+                "probabilities": {
+                    "home_win": 44.39,
+                    "draw": 25.79,
+                    "away_win": 29.82
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Manchester United won the match"
+            },
+            {
+                "match_id": 193046,
+                "match_date": "2026-04-19 13:00:00",
+                "date_unix": 1776603600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 182,
+                    "team_name": "Nottingham Forest",
+                    "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+                },
+                "away_team": {
+                    "team_id": 129,
+                    "team_name": "Burnley",
+                    "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+                },
+                "score": {
+                    "home": 4,
+                    "away": 1,
+                    "total_goals": 5
+                },
+                "xg": {
+                    "home": 1.22,
+                    "away": 0.69,
+                    "total": 1.91
+                },
+                "odds": {
+                    "home_win": 1.5,
+                    "draw": 4.4,
+                    "away_win": 6.74
+                },
+                "probabilities": {
+                    "home_win": 63.96,
+                    "draw": 21.8,
+                    "away_win": 14.23
+                },
+                "venue": {
+                    "stadium_name": "The City Ground",
+                    "stadium_location": "Pavilion Road, Nottingham, Nottinghamshire"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Nottingham Forest won the match"
+            },
+            {
+                "match_id": 193047,
+                "match_date": "2026-04-19 13:00:00",
+                "date_unix": 1776603600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 142,
+                    "team_name": "Aston Villa",
+                    "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+                },
+                "away_team": {
+                    "team_id": 140,
+                    "team_name": "Sunderland",
+                    "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+                },
+                "score": {
+                    "home": 4,
+                    "away": 3,
+                    "total_goals": 7
+                },
+                "xg": {
+                    "home": 1.78,
+                    "away": 1.42,
+                    "total": 3.2
+                },
+                "odds": {
+                    "home_win": 1.75,
+                    "draw": 3.6,
+                    "away_win": 4.9
+                },
+                "probabilities": {
+                    "home_win": 54.25,
+                    "draw": 26.37,
+                    "away_win": 19.38
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Aston Villa won the match"
+            },
+            {
+                "match_id": 193049,
+                "match_date": "2026-04-19 13:00:00",
+                "date_unix": 1776603600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 128,
+                    "team_name": "Everton",
+                    "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+                },
+                "away_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 2,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.21,
+                    "away": 1.57,
+                    "total": 2.78
+                },
+                "odds": {
+                    "home_win": 3.18,
+                    "draw": 3.5,
+                    "away_win": 2.28
+                },
+                "probabilities": {
+                    "home_win": 30.27,
+                    "draw": 27.5,
+                    "away_win": 42.22
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Liverpool won the match"
+            },
+            {
+                "match_id": 193043,
+                "match_date": "2026-04-19 15:30:00",
+                "date_unix": 1776612600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 87,
+                    "team_name": "Manchester City",
+                    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+                },
+                "away_team": {
+                    "team_id": 57,
+                    "team_name": "Arsenal",
+                    "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 1,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.76,
+                    "away": 1.08,
+                    "total": 2.83
+                },
+                "odds": {
+                    "home_win": 1.83,
+                    "draw": 3.64,
+                    "away_win": 4.5
+                },
+                "probabilities": {
+                    "home_win": 52.37,
+                    "draw": 26.33,
+                    "away_win": 21.3
+                },
+                "venue": {
+                    "stadium_name": "Etihad Stadium",
+                    "stadium_location": "Rowsley Street, Manchester"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Manchester City won the match"
+            },
+            {
+                "match_id": 193048,
+                "match_date": "2026-04-20 19:00:00",
+                "date_unix": 1776711600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 33,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 127,
+                    "team_name": "Crystal Palace",
+                    "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+                },
+                "away_team": {
+                    "team_id": 137,
+                    "team_name": "West Ham United",
+                    "team_logo": "https://footballdata.io/img/team/west-ham-united-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0,
+                    "total_goals": 0
+                },
+                "xg": {
+                    "home": 1.04,
+                    "away": 1.24,
+                    "total": 2.28
+                },
+                "odds": {
+                    "home_win": 2.35,
+                    "draw": 3.3,
+                    "away_win": 2.75
+                },
+                "probabilities": {
+                    "home_win": 38.96,
+                    "draw": 27.74,
+                    "away_win": 33.29
+                },
+                "venue": {
+                    "stadium_name": "Selhurst Park",
+                    "stadium_location": "Holmesdale Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193177,
+                "match_date": "2026-04-21 19:00:00",
+                "date_unix": 1776798000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 180,
+                    "team_name": "Brighton &amp; Hove Albion",
+                    "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+                },
+                "away_team": {
+                    "team_id": 136,
+                    "team_name": "Chelsea",
+                    "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.97,
+                    "away": 0.6,
+                    "total": 2.57
+                },
+                "odds": {
+                    "home_win": 2.42,
+                    "draw": 3.8,
+                    "away_win": 2.71
+                },
+                "probabilities": {
+                    "home_win": 39.53,
+                    "draw": 25.17,
+                    "away_win": 35.3
+                },
+                "venue": {
+                    "stadium_name": "The American Express Community Stadium",
+                    "stadium_location": "Village Way, Falmer, East Sussex"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Brighton &amp; Hove Albion won the match"
+            },
+            {
+                "match_id": 193052,
+                "match_date": "2026-04-22 19:00:00",
+                "date_unix": 1776884400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 132,
+                    "team_name": "AFC Bournemouth",
+                    "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+                },
+                "away_team": {
+                    "team_id": 193,
+                    "team_name": "Leeds United",
+                    "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 2,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 2.11,
+                    "away": 1.12,
+                    "total": 3.23
+                },
+                "odds": {
+                    "home_win": 1.95,
+                    "draw": 3.6,
+                    "away_win": 3.7
+                },
+                "probabilities": {
+                    "home_win": 48.34,
+                    "draw": 26.18,
+                    "away_win": 25.48
+                },
+                "venue": {
+                    "stadium_name": "Vitality Stadium",
+                    "stadium_location": "Dean Court, Kings Park, Bournemouth, Dorset"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193178,
+                "match_date": "2026-04-22 19:00:00",
+                "date_unix": 1776884400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 129,
+                    "team_name": "Burnley",
+                    "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+                },
+                "away_team": {
+                    "team_id": 87,
+                    "team_name": "Manchester City",
+                    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 1,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 0.8,
+                    "away": 3.05,
+                    "total": 3.85
+                },
+                "odds": {
+                    "home_win": 16,
+                    "draw": 8.5,
+                    "away_win": 1.15
+                },
+                "probabilities": {
+                    "home_win": 5.95,
+                    "draw": 11.21,
+                    "away_win": 82.84
+                },
+                "venue": {
+                    "stadium_name": "Turf Moor",
+                    "stadium_location": "Harry Potts Way, Burnley"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Manchester City won the match"
+            },
+            {
+                "match_id": 193096,
+                "match_date": "2026-04-24 19:00:00",
+                "date_unix": 1777057200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 140,
+                    "team_name": "Sunderland",
+                    "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+                },
+                "away_team": {
+                    "team_id": 182,
+                    "team_name": "Nottingham Forest",
+                    "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 5,
+                    "total_goals": 5
+                },
+                "xg": {
+                    "home": 1.77,
+                    "away": 1.29,
+                    "total": 3.05
+                },
+                "odds": {
+                    "home_win": 2.53,
+                    "draw": 3.2,
+                    "away_win": 2.56
+                },
+                "probabilities": {
+                    "home_win": 35.99,
+                    "draw": 28.45,
+                    "away_win": 35.56
+                },
+                "venue": {
+                    "stadium_name": "Stadium of Light",
+                    "stadium_location": "Millenium Way, Sunderland"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Nottingham Forest won the match"
+            },
+            {
+                "match_id": 193098,
+                "match_date": "2026-04-25 11:30:00",
+                "date_unix": 1777116600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 146,
+                    "team_name": "Fulham",
+                    "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+                },
+                "away_team": {
+                    "team_id": 142,
+                    "team_name": "Aston Villa",
+                    "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 0,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 1.49,
+                    "away": 1.05,
+                    "total": 2.54
+                },
+                "odds": {
+                    "home_win": 2.45,
+                    "draw": 3.5,
+                    "away_win": 2.75
+                },
+                "probabilities": {
+                    "home_win": 38.6,
+                    "draw": 27.02,
+                    "away_win": 34.39
+                },
+                "venue": {
+                    "stadium_name": "Craven Cottage",
+                    "stadium_location": "Stevenage Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Fulham won the match"
+            },
+            {
+                "match_id": 193097,
+                "match_date": "2026-04-25 14:00:00",
+                "date_unix": 1777125600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 137,
+                    "team_name": "West Ham United",
+                    "team_logo": "https://footballdata.io/img/team/west-ham-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 128,
+                    "team_name": "Everton",
+                    "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 1,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.2,
+                    "away": 1.29,
+                    "total": 2.49
+                },
+                "odds": {
+                    "home_win": 2.43,
+                    "draw": 3.3,
+                    "away_win": 2.99
+                },
+                "probabilities": {
+                    "home_win": 39.23,
+                    "draw": 28.89,
+                    "away_win": 31.88
+                },
+                "venue": {
+                    "stadium_name": "London Stadium",
+                    "stadium_location": "Marshgate Lane, Stratford, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "West Ham United won the match"
+            },
+            {
+                "match_id": 193100,
+                "match_date": "2026-04-25 14:00:00",
+                "date_unix": 1777125600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "away_team": {
+                    "team_id": 127,
+                    "team_name": "Crystal Palace",
+                    "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 1,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.1,
+                    "away": 1.61,
+                    "total": 2.71
+                },
+                "odds": {
+                    "home_win": 1.51,
+                    "draw": 4.45,
+                    "away_win": 6.2
+                },
+                "probabilities": {
+                    "home_win": 63.18,
+                    "draw": 21.44,
+                    "away_win": 15.39
+                },
+                "venue": {
+                    "stadium_name": "Anfield",
+                    "stadium_location": "Anfield Road, Liverpool"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Liverpool won the match"
+            },
+            {
+                "match_id": 193140,
+                "match_date": "2026-04-25 14:00:00",
+                "date_unix": 1777125600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 194,
+                    "team_name": "Wolverhampton Wanderers",
+                    "team_logo": "https://footballdata.io/img/team/wolverhampton-wanderers-fc.png"
+                },
+                "away_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 1,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 1.08,
+                    "away": 1.26,
+                    "total": 2.34
+                },
+                "odds": {
+                    "home_win": 4.5,
+                    "draw": 4.05,
+                    "away_win": 1.72
+                },
+                "probabilities": {
+                    "home_win": 21.15,
+                    "draw": 23.5,
+                    "away_win": 55.34
+                },
+                "venue": {
+                    "stadium_name": "Molineux Stadium",
+                    "stadium_location": "Waterloo Road, Wolverhampton, West Midlands"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Tottenham Hotspur won the match"
+            },
+            {
+                "match_id": 193050,
+                "match_date": "2026-04-25 16:30:00",
+                "date_unix": 1777134600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 57,
+                    "team_name": "Arsenal",
+                    "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+                },
+                "away_team": {
+                    "team_id": 141,
+                    "team_name": "Newcastle United",
+                    "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 0,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 1.35,
+                    "away": 1.36,
+                    "total": 2.71
+                },
+                "odds": {
+                    "home_win": 1.43,
+                    "draw": 4.8,
+                    "away_win": 6.9
+                },
+                "probabilities": {
+                    "home_win": 66.44,
+                    "draw": 19.79,
+                    "away_win": 13.77
+                },
+                "venue": {
+                    "stadium_name": "Emirates Stadium",
+                    "stadium_location": "Queensland Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Arsenal won the match"
+            },
+            {
+                "match_id": 193099,
+                "match_date": "2026-04-27 19:00:00",
+                "date_unix": 1777316400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 34,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 133,
+                    "team_name": "Manchester United",
+                    "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 1,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.39,
+                    "away": 1.68,
+                    "total": 3.07
+                },
+                "odds": {
+                    "home_win": 1.97,
+                    "draw": 3.8,
+                    "away_win": 3.5
+                },
+                "probabilities": {
+                    "home_win": 48.05,
+                    "draw": 24.91,
+                    "away_win": 27.04
+                },
+                "venue": {
+                    "stadium_name": "Old Trafford",
+                    "stadium_location": "Sir Matt Busby Way, Manchester"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Manchester United won the match"
+            },
+            {
+                "match_id": 193180,
+                "match_date": "2026-05-01 19:00:00",
+                "date_unix": 1777662000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 193,
+                    "team_name": "Leeds United",
+                    "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 129,
+                    "team_name": "Burnley",
+                    "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 1,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 2.05,
+                    "away": 1.04,
+                    "total": 3.09
+                },
+                "odds": {
+                    "home_win": 1.4,
+                    "draw": 5,
+                    "away_win": 7.5
+                },
+                "probabilities": {
+                    "home_win": 68.18,
+                    "draw": 19.09,
+                    "away_win": 12.73
+                },
+                "venue": {
+                    "stadium_name": "Elland Road",
+                    "stadium_location": "Elland Road, Leeds, West Yorkshire"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Leeds United won the match"
+            },
+            {
+                "match_id": 193074,
+                "match_date": "2026-05-02 14:00:00",
+                "date_unix": 1777730400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "away_team": {
+                    "team_id": 137,
+                    "team_name": "West Ham United",
+                    "team_logo": "https://footballdata.io/img/team/west-ham-united-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.64,
+                    "away": 1.37,
+                    "total": 3.01
+                },
+                "odds": {
+                    "home_win": 1.85,
+                    "draw": 4,
+                    "away_win": 3.8
+                },
+                "probabilities": {
+                    "home_win": 51.3,
+                    "draw": 23.73,
+                    "away_win": 24.97
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Brentford won the match"
+            },
+            {
+                "match_id": 193149,
+                "match_date": "2026-05-02 14:00:00",
+                "date_unix": 1777730400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 141,
+                    "team_name": "Newcastle United",
+                    "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 180,
+                    "team_name": "Brighton &amp; Hove Albion",
+                    "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 1,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.44,
+                    "away": 1.65,
+                    "total": 3.09
+                },
+                "odds": {
+                    "home_win": 2.59,
+                    "draw": 3.58,
+                    "away_win": 2.58
+                },
+                "probabilities": {
+                    "home_win": 36.67,
+                    "draw": 26.53,
+                    "away_win": 36.81
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Newcastle United won the match"
+            },
+            {
+                "match_id": 193150,
+                "match_date": "2026-05-02 14:00:00",
+                "date_unix": 1777730400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 194,
+                    "team_name": "Wolverhampton Wanderers",
+                    "team_logo": "https://footballdata.io/img/team/wolverhampton-wanderers-fc.png"
+                },
+                "away_team": {
+                    "team_id": 140,
+                    "team_name": "Sunderland",
+                    "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 2.21,
+                    "away": 1.12,
+                    "total": 3.33
+                },
+                "odds": {
+                    "home_win": 3.54,
+                    "draw": 3.7,
+                    "away_win": 2.03
+                },
+                "probabilities": {
+                    "home_win": 27.02,
+                    "draw": 25.85,
+                    "away_win": 47.12
+                },
+                "venue": {
+                    "stadium_name": "Molineux Stadium",
+                    "stadium_location": "Waterloo Road, Wolverhampton, West Midlands"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193102,
+                "match_date": "2026-05-02 16:30:00",
+                "date_unix": 1777739400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 57,
+                    "team_name": "Arsenal",
+                    "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+                },
+                "away_team": {
+                    "team_id": 146,
+                    "team_name": "Fulham",
+                    "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 2.13,
+                    "away": 0.94,
+                    "total": 3.07
+                },
+                "odds": {
+                    "home_win": 1.47,
+                    "draw": 4.35,
+                    "away_win": 7.1
+                },
+                "probabilities": {
+                    "home_win": 64.73,
+                    "draw": 21.87,
+                    "away_win": 13.4
+                },
+                "venue": {
+                    "stadium_name": "Emirates Stadium",
+                    "stadium_location": "Queensland Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Arsenal won the match"
+            },
+            {
+                "match_id": 193179,
+                "match_date": "2026-05-03 13:00:00",
+                "date_unix": 1777813200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 132,
+                    "team_name": "AFC Bournemouth",
+                    "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+                },
+                "away_team": {
+                    "team_id": 127,
+                    "team_name": "Crystal Palace",
+                    "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.73,
+                    "away": 0.8,
+                    "total": 2.53
+                },
+                "odds": {
+                    "home_win": 1.64,
+                    "draw": 4,
+                    "away_win": 5.2
+                },
+                "probabilities": {
+                    "home_win": 57.96,
+                    "draw": 23.76,
+                    "away_win": 18.28
+                },
+                "venue": {
+                    "stadium_name": "Vitality Stadium",
+                    "stadium_location": "Dean Court, Kings Park, Bournemouth, Dorset"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "AFC Bournemouth won the match"
+            },
+            {
+                "match_id": 193105,
+                "match_date": "2026-05-03 14:30:00",
+                "date_unix": 1777818600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 133,
+                    "team_name": "Manchester United",
+                    "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 2,
+                    "total_goals": 5
+                },
+                "xg": {
+                    "home": 1.78,
+                    "away": 1.54,
+                    "total": 3.33
+                },
+                "odds": {
+                    "home_win": 2.3,
+                    "draw": 3.75,
+                    "away_win": 2.85
+                },
+                "probabilities": {
+                    "home_win": 41.32,
+                    "draw": 25.34,
+                    "away_win": 33.34
+                },
+                "venue": {
+                    "stadium_name": "Old Trafford",
+                    "stadium_location": "Sir Matt Busby Way, Manchester"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Manchester United won the match"
+            },
+            {
+                "match_id": 193103,
+                "match_date": "2026-05-03 18:00:00",
+                "date_unix": 1777831200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 142,
+                    "team_name": "Aston Villa",
+                    "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+                },
+                "away_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 2,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 0.62,
+                    "away": 1.23,
+                    "total": 1.84
+                },
+                "odds": {
+                    "home_win": 2.09,
+                    "draw": 3.55,
+                    "away_win": 3.35
+                },
+                "probabilities": {
+                    "home_win": 45.2,
+                    "draw": 26.61,
+                    "away_win": 28.2
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Tottenham Hotspur won the match"
+            },
+            {
+                "match_id": 193101,
+                "match_date": "2026-05-04 14:00:00",
+                "date_unix": 1777903200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 136,
+                    "team_name": "Chelsea",
+                    "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+                },
+                "away_team": {
+                    "team_id": 182,
+                    "team_name": "Nottingham Forest",
+                    "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 3,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 2.28,
+                    "away": 0.78,
+                    "total": 3.06
+                },
+                "odds": {
+                    "home_win": 1.68,
+                    "draw": 3.9,
+                    "away_win": 4.95
+                },
+                "probabilities": {
+                    "home_win": 56.49,
+                    "draw": 24.34,
+                    "away_win": 19.17
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Nottingham Forest won the match"
+            },
+            {
+                "match_id": 193054,
+                "match_date": "2026-05-04 19:00:00",
+                "date_unix": 1777921200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 35,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 128,
+                    "team_name": "Everton",
+                    "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+                },
+                "away_team": {
+                    "team_id": 87,
+                    "team_name": "Manchester City",
+                    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 3,
+                    "total_goals": 6
+                },
+                "xg": {
+                    "home": 1.47,
+                    "away": 2.23,
+                    "total": 3.69
+                },
+                "odds": {
+                    "home_win": 6.3,
+                    "draw": 4.65,
+                    "away_win": 1.51
+                },
+                "probabilities": {
+                    "home_win": 15.32,
+                    "draw": 20.76,
+                    "away_win": 63.92
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193106,
+                "match_date": "2026-05-09 11:30:00",
+                "date_unix": 1778326200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "away_team": {
+                    "team_id": 136,
+                    "team_name": "Chelsea",
+                    "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1,
+                    "away": 0.88,
+                    "total": 1.87
+                },
+                "odds": {
+                    "home_win": 2,
+                    "draw": 3.75,
+                    "away_win": 3.5
+                },
+                "probabilities": {
+                    "home_win": 47.51,
+                    "draw": 25.34,
+                    "away_win": 27.15
+                },
+                "venue": {
+                    "stadium_name": "Anfield",
+                    "stadium_location": "Anfield Road, Liverpool"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193063,
+                "match_date": "2026-05-09 14:00:00",
+                "date_unix": 1778335200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 140,
+                    "team_name": "Sunderland",
+                    "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+                },
+                "away_team": {
+                    "team_id": 133,
+                    "team_name": "Manchester United",
+                    "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0,
+                    "total_goals": 0
+                },
+                "xg": {
+                    "home": 1.56,
+                    "away": 1.05,
+                    "total": 2.61
+                },
+                "odds": {
+                    "home_win": 3.8,
+                    "draw": 3.65,
+                    "away_win": 2
+                },
+                "probabilities": {
+                    "home_win": 25.37,
+                    "draw": 26.42,
+                    "away_win": 48.21
+                },
+                "venue": {
+                    "stadium_name": "Stadium of Light",
+                    "stadium_location": "Millenium Way, Sunderland"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193141,
+                "match_date": "2026-05-09 14:00:00",
+                "date_unix": 1778335200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 180,
+                    "team_name": "Brighton &amp; Hove Albion",
+                    "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+                },
+                "away_team": {
+                    "team_id": 194,
+                    "team_name": "Wolverhampton Wanderers",
+                    "team_logo": "https://footballdata.io/img/team/wolverhampton-wanderers-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.64,
+                    "away": 0.49,
+                    "total": 2.14
+                },
+                "odds": {
+                    "home_win": 1.25,
+                    "draw": 6,
+                    "away_win": 9
+                },
+                "probabilities": {
+                    "home_win": 74.23,
+                    "draw": 15.46,
+                    "away_win": 10.31
+                },
+                "venue": {
+                    "stadium_name": "The American Express Community Stadium",
+                    "stadium_location": "Village Way, Falmer, East Sussex"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Brighton &amp; Hove Albion won the match"
+            },
+            {
+                "match_id": 193152,
+                "match_date": "2026-05-09 14:00:00",
+                "date_unix": 1778335200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 146,
+                    "team_name": "Fulham",
+                    "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+                },
+                "away_team": {
+                    "team_id": 132,
+                    "team_name": "AFC Bournemouth",
+                    "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 1,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 1.44,
+                    "away": 1.19,
+                    "total": 2.63
+                },
+                "odds": {
+                    "home_win": 2.6,
+                    "draw": 3.6,
+                    "away_win": 2.5
+                },
+                "probabilities": {
+                    "home_win": 36.2,
+                    "draw": 26.15,
+                    "away_win": 37.65
+                },
+                "venue": {
+                    "stadium_name": "Craven Cottage",
+                    "stadium_location": "Stevenage Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "AFC Bournemouth won the match"
+            },
+            {
+                "match_id": 193110,
+                "match_date": "2026-05-09 16:30:00",
+                "date_unix": 1778344200,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 87,
+                    "team_name": "Manchester City",
+                    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+                },
+                "away_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 2.87,
+                    "away": 0.67,
+                    "total": 3.54
+                },
+                "odds": {
+                    "home_win": 1.38,
+                    "draw": 5.45,
+                    "away_win": 7.05
+                },
+                "probabilities": {
+                    "home_win": 69.02,
+                    "draw": 17.48,
+                    "away_win": 13.51
+                },
+                "venue": {
+                    "stadium_name": "Etihad Stadium",
+                    "stadium_location": "Rowsley Street, Manchester"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Manchester City won the match"
+            },
+            {
+                "match_id": 193151,
+                "match_date": "2026-05-10 13:00:00",
+                "date_unix": 1778418000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 127,
+                    "team_name": "Crystal Palace",
+                    "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+                },
+                "away_team": {
+                    "team_id": 128,
+                    "team_name": "Everton",
+                    "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 2,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 2.27,
+                    "away": 1.67,
+                    "total": 3.94
+                },
+                "odds": {
+                    "home_win": 3,
+                    "draw": 3.4,
+                    "away_win": 2.4
+                },
+                "probabilities": {
+                    "home_win": 31.92,
+                    "draw": 28.17,
+                    "away_win": 39.91
+                },
+                "venue": {
+                    "stadium_name": "Selhurst Park",
+                    "stadium_location": "Holmesdale Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193181,
+                "match_date": "2026-05-10 13:00:00",
+                "date_unix": 1778418000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 129,
+                    "team_name": "Burnley",
+                    "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+                },
+                "away_team": {
+                    "team_id": 142,
+                    "team_name": "Aston Villa",
+                    "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 2,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.57,
+                    "away": 1.98,
+                    "total": 3.54
+                },
+                "odds": {
+                    "home_win": 5.5,
+                    "draw": 4.05,
+                    "away_win": 1.51
+                },
+                "probabilities": {
+                    "home_win": 16.67,
+                    "draw": 22.63,
+                    "away_win": 60.7
+                },
+                "venue": {
+                    "stadium_name": "Turf Moor",
+                    "stadium_location": "Harry Potts Way, Burnley"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193182,
+                "match_date": "2026-05-10 13:00:00",
+                "date_unix": 1778418000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 182,
+                    "team_name": "Nottingham Forest",
+                    "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+                },
+                "away_team": {
+                    "team_id": 141,
+                    "team_name": "Newcastle United",
+                    "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.76,
+                    "away": 1.82,
+                    "total": 3.58
+                },
+                "odds": {
+                    "home_win": 2.9,
+                    "draw": 3.4,
+                    "away_win": 2.38
+                },
+                "probabilities": {
+                    "home_win": 32.56,
+                    "draw": 27.77,
+                    "away_win": 39.67
+                },
+                "venue": {
+                    "stadium_name": "The City Ground",
+                    "stadium_location": "Pavilion Road, Nottingham, Nottinghamshire"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193183,
+                "match_date": "2026-05-10 15:30:00",
+                "date_unix": 1778427000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 137,
+                    "team_name": "West Ham United",
+                    "team_logo": "https://footballdata.io/img/team/west-ham-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 57,
+                    "team_name": "Arsenal",
+                    "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 1,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 1.02,
+                    "away": 1.58,
+                    "total": 2.6
+                },
+                "odds": {
+                    "home_win": 6.25,
+                    "draw": 3.95,
+                    "away_win": 1.55
+                },
+                "probabilities": {
+                    "home_win": 15.12,
+                    "draw": 23.92,
+                    "away_win": 60.96
+                },
+                "venue": {
+                    "stadium_name": "London Stadium",
+                    "stadium_location": "Marshgate Lane, Stratford, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Arsenal won the match"
+            },
+            {
+                "match_id": 193107,
+                "match_date": "2026-05-11 19:00:00",
+                "date_unix": 1778526000,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 36,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "away_team": {
+                    "team_id": 193,
+                    "team_name": "Leeds United",
+                    "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.65,
+                    "away": 1.2,
+                    "total": 2.86
+                },
+                "odds": {
+                    "home_win": 1.77,
+                    "draw": 3.55,
+                    "away_win": 3.95
+                },
+                "probabilities": {
+                    "home_win": 51.37,
+                    "draw": 25.61,
+                    "away_win": 23.02
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193094,
+                "match_date": "2026-05-13 19:00:00",
+                "date_unix": 1778698800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 31,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 87,
+                    "team_name": "Manchester City",
+                    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+                },
+                "away_team": {
+                    "team_id": 127,
+                    "team_name": "Crystal Palace",
+                    "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.93,
+                    "away": 0.61,
+                    "total": 2.54
+                },
+                "odds": {
+                    "home_win": 1.23,
+                    "draw": 7.25,
+                    "away_win": 9
+                },
+                "probabilities": {
+                    "home_win": 76.55,
+                    "draw": 12.99,
+                    "away_win": 10.46
+                },
+                "venue": {
+                    "stadium_name": "Etihad Stadium",
+                    "stadium_location": "Rowsley Street, Manchester"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Manchester City won the match"
+            },
+            {
+                "match_id": 193184,
+                "match_date": "2026-05-15 19:00:00",
+                "date_unix": 1778871600,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 142,
+                    "team_name": "Aston Villa",
+                    "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+                },
+                "away_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "score": {
+                    "home": 4,
+                    "away": 2,
+                    "total_goals": 6
+                },
+                "xg": {
+                    "home": 1.84,
+                    "away": 1.72,
+                    "total": 3.56
+                },
+                "odds": {
+                    "home_win": 2.9,
+                    "draw": 3.4,
+                    "away_win": 2.4
+                },
+                "probabilities": {
+                    "home_win": 32.67,
+                    "draw": 27.86,
+                    "away_win": 39.47
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Aston Villa won the match"
+            },
+            {
+                "match_id": 193153,
+                "match_date": "2026-05-17 11:30:00",
+                "date_unix": 1779017400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 133,
+                    "team_name": "Manchester United",
+                    "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 182,
+                    "team_name": "Nottingham Forest",
+                    "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 2,
+                    "total_goals": 5
+                },
+                "xg": {
+                    "home": 2.79,
+                    "away": 1.28,
+                    "total": 4.07
+                },
+                "odds": {
+                    "home_win": 1.53,
+                    "draw": 4.4,
+                    "away_win": 5
+                },
+                "probabilities": {
+                    "home_win": 60.47,
+                    "draw": 21.03,
+                    "away_win": 18.5
+                },
+                "venue": {
+                    "stadium_name": "Old Trafford",
+                    "stadium_location": "Sir Matt Busby Way, Manchester"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Manchester United won the match"
+            },
+            {
+                "match_id": 193055,
+                "match_date": "2026-05-17 14:00:00",
+                "date_unix": 1779026400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 128,
+                    "team_name": "Everton",
+                    "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+                },
+                "away_team": {
+                    "team_id": 140,
+                    "team_name": "Sunderland",
+                    "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 3,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.22,
+                    "away": 0.95,
+                    "total": 2.17
+                },
+                "odds": {
+                    "home_win": 1.93,
+                    "draw": 3.8,
+                    "away_win": 4.27
+                },
+                "probabilities": {
+                    "home_win": 51.02,
+                    "draw": 25.91,
+                    "away_win": 23.06
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Sunderland won the match"
+            },
+            {
+                "match_id": 193108,
+                "match_date": "2026-05-17 14:00:00",
+                "date_unix": 1779026400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "away_team": {
+                    "team_id": 127,
+                    "team_name": "Crystal Palace",
+                    "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 2,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.48,
+                    "away": 1.63,
+                    "total": 3.1
+                },
+                "odds": {
+                    "home_win": 1.85,
+                    "draw": 4.22,
+                    "away_win": 4.22
+                },
+                "probabilities": {
+                    "home_win": 53.28,
+                    "draw": 23.36,
+                    "away_win": 23.36
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193111,
+                "match_date": "2026-05-17 14:00:00",
+                "date_unix": 1779026400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 193,
+                    "team_name": "Leeds United",
+                    "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 180,
+                    "team_name": "Brighton &amp; Hove Albion",
+                    "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 0,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 0.8,
+                    "away": 2.29,
+                    "total": 3.09
+                },
+                "odds": {
+                    "home_win": 3.17,
+                    "draw": 3.68,
+                    "away_win": 2.34
+                },
+                "probabilities": {
+                    "home_win": 31.09,
+                    "draw": 26.78,
+                    "away_win": 42.12
+                },
+                "venue": {
+                    "stadium_name": "Elland Road",
+                    "stadium_location": "Elland Road, Leeds, West Yorkshire"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Leeds United won the match"
+            },
+            {
+                "match_id": 193187,
+                "match_date": "2026-05-17 14:00:00",
+                "date_unix": 1779026400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 194,
+                    "team_name": "Wolverhampton Wanderers",
+                    "team_logo": "https://footballdata.io/img/team/wolverhampton-wanderers-fc.png"
+                },
+                "away_team": {
+                    "team_id": 146,
+                    "team_name": "Fulham",
+                    "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.13,
+                    "away": 1.6,
+                    "total": 2.73
+                },
+                "odds": {
+                    "home_win": 3.72,
+                    "draw": 4.05,
+                    "away_win": 2
+                },
+                "probabilities": {
+                    "home_win": 26.47,
+                    "draw": 24.31,
+                    "away_win": 49.23
+                },
+                "venue": {
+                    "stadium_name": "Molineux Stadium",
+                    "stadium_location": "Waterloo Road, Wolverhampton, West Midlands"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193154,
+                "match_date": "2026-05-17 16:30:00",
+                "date_unix": 1779035400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 141,
+                    "team_name": "Newcastle United",
+                    "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 137,
+                    "team_name": "West Ham United",
+                    "team_logo": "https://footballdata.io/img/team/west-ham-united-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 1,
+                    "total_goals": 4
+                },
+                "xg": {
+                    "home": 1.81,
+                    "away": 1.91,
+                    "total": 3.72
+                },
+                "odds": {
+                    "home_win": 2.15,
+                    "draw": 3.8,
+                    "away_win": 3
+                },
+                "probabilities": {
+                    "home_win": 43.81,
+                    "draw": 24.79,
+                    "away_win": 31.4
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Newcastle United won the match"
+            },
+            {
+                "match_id": 193071,
+                "match_date": "2026-05-18 19:00:00",
+                "date_unix": 1779130800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 57,
+                    "team_name": "Arsenal",
+                    "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+                },
+                "away_team": {
+                    "team_id": 129,
+                    "team_name": "Burnley",
+                    "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 0,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 1.5,
+                    "away": 0.5,
+                    "total": 2
+                },
+                "odds": {
+                    "home_win": 1.12,
+                    "draw": 9,
+                    "away_win": 21
+                },
+                "probabilities": {
+                    "home_win": 84.91,
+                    "draw": 10.57,
+                    "away_win": 4.53
+                },
+                "venue": {
+                    "stadium_name": "Emirates Stadium",
+                    "stadium_location": "Queensland Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Arsenal won the match"
+            },
+            {
+                "match_id": 193185,
+                "match_date": "2026-05-19 18:30:00",
+                "date_unix": 1779215400,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 132,
+                    "team_name": "AFC Bournemouth",
+                    "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+                },
+                "away_team": {
+                    "team_id": 87,
+                    "team_name": "Manchester City",
+                    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.01,
+                    "away": 1.69,
+                    "total": 2.7
+                },
+                "odds": {
+                    "home_win": 4.7,
+                    "draw": 4,
+                    "away_win": 1.67
+                },
+                "probabilities": {
+                    "home_win": 20.04,
+                    "draw": 23.55,
+                    "away_win": 56.41
+                },
+                "venue": {
+                    "stadium_name": "Vitality Stadium",
+                    "stadium_location": "Dean Court, Kings Park, Bournemouth, Dorset"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193186,
+                "match_date": "2026-05-19 19:15:00",
+                "date_unix": 1779218100,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 37,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 136,
+                    "team_name": "Chelsea",
+                    "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+                },
+                "away_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 1,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.04,
+                    "away": 1.09,
+                    "total": 2.13
+                },
+                "odds": {
+                    "home_win": 2.1,
+                    "draw": 3.4,
+                    "away_win": 3.3
+                },
+                "probabilities": {
+                    "home_win": 44.37,
+                    "draw": 27.4,
+                    "away_win": 28.23
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Chelsea won the match"
+            },
+            {
+                "match_id": 193068,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 87,
+                    "team_name": "Manchester City",
+                    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+                },
+                "away_team": {
+                    "team_id": 142,
+                    "team_name": "Aston Villa",
+                    "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 2,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.82,
+                    "away": 1.29,
+                    "total": 3.11
+                },
+                "odds": {
+                    "home_win": 1.29,
+                    "draw": 6,
+                    "away_win": 7.5
+                },
+                "probabilities": {
+                    "home_win": 72.1,
+                    "draw": 15.5,
+                    "away_win": 12.4
+                },
+                "venue": {
+                    "stadium_name": "Etihad Stadium",
+                    "stadium_location": "Rowsley Street, Manchester"
+                },
+                "last_updated": "2026-11-19 19:42:04",
+                "winner_text": "Aston Villa won the match"
+            },
+            {
+                "match_id": 193109,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 180,
+                    "team_name": "Brighton &amp; Hove Albion",
+                    "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+                },
+                "away_team": {
+                    "team_id": 133,
+                    "team_name": "Manchester United",
+                    "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+                },
+                "score": {
+                    "home": 0,
+                    "away": 3,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.37,
+                    "away": 1.49,
+                    "total": 2.86
+                },
+                "odds": {
+                    "home_win": 1.83,
+                    "draw": 4.06,
+                    "away_win": 3.82
+                },
+                "probabilities": {
+                    "home_win": 51.82,
+                    "draw": 23.36,
+                    "away_win": 24.82
+                },
+                "venue": {
+                    "stadium_name": "The American Express Community Stadium",
+                    "stadium_location": "Village Way, Falmer, East Sussex"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Manchester United won the match"
+            },
+            {
+                "match_id": 193112,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 140,
+                    "team_name": "Sunderland",
+                    "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+                },
+                "away_team": {
+                    "team_id": 136,
+                    "team_name": "Chelsea",
+                    "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 1,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 2.16,
+                    "away": 0.96,
+                    "total": 3.12
+                },
+                "odds": {
+                    "home_win": 3.4,
+                    "draw": 3.5,
+                    "away_win": 2.05
+                },
+                "probabilities": {
+                    "home_win": 27.55,
+                    "draw": 26.76,
+                    "away_win": 45.69
+                },
+                "venue": {
+                    "stadium_name": "Stadium of Light",
+                    "stadium_location": "Millenium Way, Sunderland"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Sunderland won the match"
+            },
+            {
+                "match_id": 193155,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 135,
+                    "team_name": "Liverpool",
+                    "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+                },
+                "away_team": {
+                    "team_id": 189,
+                    "team_name": "Brentford",
+                    "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 2.58,
+                    "away": 1.07,
+                    "total": 3.65
+                },
+                "odds": {
+                    "home_win": 1.87,
+                    "draw": 4.3,
+                    "away_win": 3.75
+                },
+                "probabilities": {
+                    "home_win": 51.72,
+                    "draw": 22.49,
+                    "away_win": 25.79
+                },
+                "venue": {
+                    "stadium_name": "Anfield",
+                    "stadium_location": "Anfield Road, Liverpool"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193188,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 129,
+                    "team_name": "Burnley",
+                    "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+                },
+                "away_team": {
+                    "team_id": 194,
+                    "team_name": "Wolverhampton Wanderers",
+                    "team_logo": "https://footballdata.io/img/team/wolverhampton-wanderers-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 2.01,
+                    "away": 1.58,
+                    "total": 3.59
+                },
+                "odds": {
+                    "home_win": 2.45,
+                    "draw": 3.65,
+                    "away_win": 2.82
+                },
+                "probabilities": {
+                    "home_win": 39.37,
+                    "draw": 26.43,
+                    "away_win": 34.2
+                },
+                "venue": {
+                    "stadium_name": "Turf Moor",
+                    "stadium_location": "Harry Potts Way, Burnley"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193189,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 127,
+                    "team_name": "Crystal Palace",
+                    "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+                },
+                "away_team": {
+                    "team_id": 57,
+                    "team_name": "Arsenal",
+                    "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 2,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 0.97,
+                    "away": 1.94,
+                    "total": 2.91
+                },
+                "odds": {
+                    "home_win": 3.9,
+                    "draw": 3.5,
+                    "away_win": 2
+                },
+                "probabilities": {
+                    "home_win": 24.6,
+                    "draw": 27.42,
+                    "away_win": 47.98
+                },
+                "venue": {
+                    "stadium_name": "Selhurst Park",
+                    "stadium_location": "Holmesdale Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Arsenal won the match"
+            },
+            {
+                "match_id": 193190,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 146,
+                    "team_name": "Fulham",
+                    "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+                },
+                "away_team": {
+                    "team_id": 141,
+                    "team_name": "Newcastle United",
+                    "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+                },
+                "score": {
+                    "home": 2,
+                    "away": 0,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 2.11,
+                    "away": 0.9,
+                    "total": 3.02
+                },
+                "odds": {
+                    "home_win": 2.64,
+                    "draw": 3.4,
+                    "away_win": 2.49
+                },
+                "probabilities": {
+                    "home_win": 35.25,
+                    "draw": 27.37,
+                    "away_win": 37.38
+                },
+                "venue": {
+                    "stadium_name": "Craven Cottage",
+                    "stadium_location": "Stevenage Road, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Fulham won the match"
+            },
+            {
+                "match_id": 193191,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 182,
+                    "team_name": "Nottingham Forest",
+                    "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+                },
+                "away_team": {
+                    "team_id": 132,
+                    "team_name": "AFC Bournemouth",
+                    "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 1,
+                    "total_goals": 2
+                },
+                "xg": {
+                    "home": 1.51,
+                    "away": 1.84,
+                    "total": 3.36
+                },
+                "odds": {
+                    "home_win": 3.3,
+                    "draw": 3.7,
+                    "away_win": 2
+                },
+                "probabilities": {
+                    "home_win": 28.23,
+                    "draw": 25.18,
+                    "away_win": 46.59
+                },
+                "venue": {
+                    "stadium_name": "The City Ground",
+                    "stadium_location": "Pavilion Road, Nottingham, Nottinghamshire"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "The match ended in a draw"
+            },
+            {
+                "match_id": 193192,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 86,
+                    "team_name": "Tottenham Hotspur",
+                    "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+                },
+                "away_team": {
+                    "team_id": 128,
+                    "team_name": "Everton",
+                    "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+                },
+                "score": {
+                    "home": 1,
+                    "away": 0,
+                    "total_goals": 1
+                },
+                "xg": {
+                    "home": 1.7,
+                    "away": 1.07,
+                    "total": 2.77
+                },
+                "odds": {
+                    "home_win": 1.91,
+                    "draw": 3.5,
+                    "away_win": 3.8
+                },
+                "probabilities": {
+                    "home_win": 48.82,
+                    "draw": 26.64,
+                    "away_win": 24.54
+                },
+                "venue": {
+                    "stadium_name": "",
+                    "stadium_location": ""
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "Tottenham Hotspur won the match"
+            },
+            {
+                "match_id": 193193,
+                "match_date": "2026-05-24 15:00:00",
+                "date_unix": 1779634800,
+                "status": "complete",
+                "status_localized": "Finished",
+                "round_id": 120208,
+                "game_week": 38,
+                "league": {
+                    "league_id": 15,
+                    "name": "England Premier League",
+                    "country": "England",
+                    "competition_name": "Premier League",
+                    "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+                },
+                "season": {
+                    "season_id": 189,
+                    "year": 20252026
+                },
+                "home_team": {
+                    "team_id": 137,
+                    "team_name": "West Ham United",
+                    "team_logo": "https://footballdata.io/img/team/west-ham-united-fc.png"
+                },
+                "away_team": {
+                    "team_id": 193,
+                    "team_name": "Leeds United",
+                    "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+                },
+                "score": {
+                    "home": 3,
+                    "away": 0,
+                    "total_goals": 3
+                },
+                "xg": {
+                    "home": 1.98,
+                    "away": 1.43,
+                    "total": 3.4
+                },
+                "odds": {
+                    "home_win": 1.74,
+                    "draw": 3.7,
+                    "away_win": 3.76
+                },
+                "probabilities": {
+                    "home_win": 51.73,
+                    "draw": 24.33,
+                    "away_win": 23.94
+                },
+                "venue": {
+                    "stadium_name": "London Stadium",
+                    "stadium_location": "Marshgate Lane, Stratford, London"
+                },
+                "last_updated": "2026-11-19 19:42:05",
+                "winner_text": "West Ham United won the match"
+            }
+        ]
+    },
+    "meta": {
+        "plan": "free",
+        "requests_used": 14,
+        "requests_limit": 1000,
+        "requests_remaining": 986,
+        "coverage_note": "Coverage varies by league and season.",
+        "league_limit": 5,
+        "pagination": {
+            "page": 4,
+            "limit": 100,
+            "total": 381,
+            "total_pages": 4
+        },
+        "filters": {
+            "season_id": 189,
+            "league_id": 15,
+            "team_id": null,
+            "status": null,
+            "date": null,
+            "from": null,
+            "to": null,
+            "sort": "asc"
+        },
+        "count": 81,
+        "language": "en"
+    }
+}
