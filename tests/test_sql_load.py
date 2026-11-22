@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 
-server = 'TEMITOPE\SQLEXPRESS' #amend this to your sql server name
+server = 'T***\SQLEXPRESS' #amend this to your sql server name
 database = 'PremierLeagueDW'
 
 connection_string = (
