@@ -62,7 +62,7 @@ pipeline_run_id = str(uuid.uuid4())
 # 4. Find extracted JSON files
 # --------------------------------------------------
 
-files = sorted(glob.glob("matches_page_*.json"))
+files = sorted(glob.glob("data/raw/matches_page_*.json"))
 
 print(f"Found {len(files)} JSON files to process.")
 
@@ -142,7 +142,7 @@ with engine.begin() as connection:
         ).hexdigest()
 
         # Extract page number from filename
-        page_number = filename.replace(
+        page_number = os.path.basename(filename).replace(
             "matches_page_", ""
         ).replace(".json", "")
 
